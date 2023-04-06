@@ -126,7 +126,7 @@ def position_birth_search(position, age, cur, conn):
      return cur.fetchall()
 
 
-# [EXTRA CREDIT]
+# [EXTRA CREDIT] (not doing it this time)
 # You’ll make 3 new functions, make_winners_table(), make_seasons_table(),
 # and winners_since_search(), 
 # and then write at least 2 meaningful test cases for each of them. 
