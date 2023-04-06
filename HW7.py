@@ -257,6 +257,7 @@ def main():
     make_seasons_table(seasons_json_data, cur2, conn2)
     conn2.close()
 
+#donew/allfourtasks!!:)
 
 if __name__ == "__main__":
     main()
